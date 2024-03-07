@@ -1,7 +1,7 @@
 # Early Disease Detection using Multinomial Naive Bayes Algorithm
 
 ## Overview
-This project focuses on early disease detection using the Multinomial Naive Bayes algorithm. The model is trained to classify diseases based on symptoms extracted from a provided dataset. The trained model is then saved for future use.
+This project focuses on early disease detection using the Multinomial Naive Bayes algorithm. The model is trained to classify diseases based on symptoms extracted from a provided dataset, encompassing more than 150 symptoms. The trained model is then saved for future use.
 
 ## Steps
 
